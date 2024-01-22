@@ -23,5 +23,10 @@ DATABASE=<DoğduğunuzAy(Yazı ile)>
 1. Bu repo'yu klonlayın:
 
    ```bash
-   git clone https://github.com/kullanici_adi/repo_adi.git
+   git clone https://github.com/GhostFaceInterface/docker-compose-using-env-file.git
+   ```
+2. Ardından çalıştırın   
+   ```bash
    docker-compose up -d
+   ```
+3. Bitti :)   
