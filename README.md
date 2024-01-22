@@ -18,3 +18,10 @@ PASSWORD=<Sizin Öğrenci Numaranız>       Not: Eğer hala kavrayamayıp "Sizin
 DATABASE=<DoğduğunuzAy(Yazı ile)>
 ```
 
+## Kurulum Adımları
+
+1. Bu repo'yu klonlayın:
+
+   ```bash
+   git clone https://github.com/kullanici_adi/repo_adi.git
+   docker-compose up -d
