@@ -1,0 +1,10 @@
+version: "3"
+services:
+  drupal:
+    image: bitnami/drupal:latest
+  db:
+    image: bitnami/mariadb:latest
+    env_file:
+      - .env
+  webserver:
+    image: nginx
